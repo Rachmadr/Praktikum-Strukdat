@@ -1,0 +1,29 @@
+PRAKTIKUM STRUKTUR DATA SEMESTER GASAL 2023/2024
+Pertemuan 12 (4 - 10 Desember 2023)
+
+MODUL POHON BINER 3
+
+PETUNJUK UNTUK PRAKTIKAN :
+1. Kerjakan sendiri tugas praktikum untuk berlatih. Kompetensi memprogram Anda dipertanggungjawabkan di dunia kerja nanti.
+2. Bila ada tugas kelompok, kerjakan dan tuliskan porsi Anda.
+3. Di dalam setiap file, tuliskan deskripsi program/modul, nama/NIM pembuat, dan tanggal pembuatan
+4. Jadwal praktikum terbatas 2 jam, Anda harus menambah praktikum mandiri, minimal 120 menit.
+5. Konsultasikan dengan asisten bila menemui kendala.
+
+AGENDA :
+0. Praktikan mempelajari slide ADT pohon biner dan catatan.
+1. Asisten membuka sesi praktikum.
+2. Praktikan mengunduh dan mempelajari file tugas di http://tiny.cc/sd23prak
+3. Praktikan mengerjakan tugas praktikum di komputer masing-masing. 
+4. Asisten mendampingi praktikan secara bergilir.
+5. Praktikan mengumpulkan laporan penyelesaian tugas.
+6. Asisten melaporkan kendala dan perkembangan belajar praktikan.
+
+DESKRIPSI TUGAS :
+1. Buatlah projek dan folder kerja hari ini dengan format : <nim>_SD12. contoh: 24060121110023_SD12.
+2. Simpanlah file boolean.h, list1.*, pohon3.* ke dalam folder kerja.
+3. Pelajari file header kemudian buatlah realisasi SEBUAH fungsi/prosedur dalam file "pohon3.c".
+4. Setiap selesai merealisasikan SEBUAH fungsi/prosedur, buatlah aplikasi dalam file main untuk menguji body yang telah dibuat.
+5. Ulangi langkah 3 dan 4 selama sesi praktikum berlangsung.
+6. Pada akhir sesi praktikum (2 jam), laporkan hasil praktikum pada link berikut http://tiny.cc/sd23p 
+7. Kumpulkan(submit) hasil pekerjaan Anda via Kulon paling lambat hari Minggu, 10 Desember 2023 jam 23.59 WIB.

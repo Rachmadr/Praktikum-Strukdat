@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1699106535 source:d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\list1.c
+	<stdio.h>
+	<stdlib.h>
+	"list1.h"
+	"boolean.h"
+
+1699103164 d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\list1.h
+	"boolean.h"
+
+1699709636 d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\boolean.h
+
+1702185835 source:d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\mpohon3.c
+	<stdio.h>
+	<stdlib.h>
+	"pohon3.h"
+	"list1.h"
+
+1702185310 d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\pohon3.h
+	"boolean.h"
+	"list1.h"
+
+1702185319 source:d:\.kuliah\.semester3\strukdat\praktikum\24060122120014_sd12\pohon3.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"pohon3.h"
+
