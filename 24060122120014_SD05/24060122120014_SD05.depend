@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695962206 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan5\24060122120014_sd05\mtqueue2.c
+	<stdio.h>
+	<stdlib.h>
+	"tqueue2.h"
+	"boolean.h"
+
+1695960949 d:\kuliah\semester3\strukdat\praktikum\pertemuan5\24060122120014_sd05\tqueue2.h
+	"boolean.h"
+
+1695961008 d:\kuliah\semester3\strukdat\praktikum\pertemuan5\24060122120014_sd05\boolean.h
+
+1695962445 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan5\24060122120014_sd05\tqueue2.c
+	<stdio.h>
+	"tqueue2.h"
+	"boolean.h"
+

@@ -1,0 +1,29 @@
+PRAKTIKUM STRUKTUR DATA SEMESTER GASAL 2023/2024
+Pertemuan 06 (2 - 8 Oktober 2023)
+
+MODUL QUEUE III (SIRKULAR)
+
+PETUNJUK UNTUK PRAKTIKAN :
+1. Kerjakan sendiri tugas praktikum untuk berlatih. Kompetensi memprogram Anda dipertanggungjawabkan di dunia kerja nanti.
+2. Bila ada tugas kelompok, kerjakan dan tuliskan porsi Anda.
+3. Di dalam setiap file, tuliskan deskripsi program/modul, nama/NIM pembuat, dan tanggal pembuatan
+4. Jadwal praktikum terbatas 2 jam, Anda harus menambah praktikum mandiri, minimal 120 menit.
+5. Konsultasikan dengan asisten bila menemui kendala.
+
+AGENDA :
+0. Praktikan mempelajari slide ADTQueue3 dan catatan.
+1. Asisten membuka sesi praktikum.
+2. Praktikan mengunduh dan mempelajari file tugas di http://tiny.cc/sd23prak
+3. Praktikan mengerjakan tugas praktikum di komputer masing-masing. Diawali modul "tqueue3". 
+4. Asisten mendampingi praktikan secara bergilir.
+5. Praktikan mengumpulkan laporan penyelesaian tugas.
+6. Asisten melaporkan kendala dan perkembangan belajar praktikan.
+
+DESKRIPSI TUGAS P05 :
+1. Buatlah projek dan folder kerja hari ini dengan format : <nim>_SD06. contoh: 24060119110023_SD06.
+2. Simpanlah file boolean.h, tqueue3.h ke dalam folder kerja.
+3. Pelajari file header kemudian buatlah realisasi SEBUAH fungsi/prosedur dalam file "tqueue3.c" (queue model 3).
+4. Setiap selesai merealisasikan SEBUAH fungsi/prosedur, buatlah aplikasi dalam file main untuk menguji body yang telah dibuat.
+5. Ulangi langkah 3 dan 4 selama sesi praktikum berlangsung.
+6. Pada akhir sesi praktikum (2 jam), laporkan hasil praktikum pada link berikut http://tiny.cc/sd23p 
+7. Kumpulkan(submit) hasil pekerjaan Anda via Kulon paling lambat hari Sabtu 7 Oktober 2023 jam 23.59 WIB.

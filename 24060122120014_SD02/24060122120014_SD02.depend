@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694197559 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan2\24060122120014_sd02\mtabel.c
+	<stdio.h>
+	"tabel.h"
+
+1694198233 d:\kuliah\semester3\strukdat\praktikum\pertemuan2\24060122120014_sd02\tabel.h
+	<stdio.h>
+	"boolean.h"
+
+1694142239 d:\kuliah\semester3\strukdat\praktikum\pertemuan2\24060122120014_sd02\boolean.h
+
+1694143292 d:\kuliah\semester3\strukdat\praktikum\pertemuan2\24060122120014_sd02\tabel.c
+	"tabel.h"
+
+1694198246 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan2\24060122120014_sd02\tabel.c
+	"tabel.h"
+

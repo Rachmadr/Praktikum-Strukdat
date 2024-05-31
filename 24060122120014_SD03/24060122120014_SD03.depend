@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694862688 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan3\24060122120014_sd03\tstack.c
+	<stdio.h>
+	"tstack.h"
+	"boolean.h"
+
+1694751302 d:\kuliah\semester3\strukdat\praktikum\pertemuan3\24060122120014_sd03\tstack.h
+	"boolean.h"
+
+1694142239 d:\kuliah\semester3\strukdat\praktikum\pertemuan3\24060122120014_sd03\boolean.h
+
+1694865520 source:d:\kuliah\semester3\strukdat\praktikum\pertemuan3\24060122120014_sd03\mtstack.c
+	<stdio.h>
+	<string.h>
+	"tstack.h"
+	"boolean.h"
+

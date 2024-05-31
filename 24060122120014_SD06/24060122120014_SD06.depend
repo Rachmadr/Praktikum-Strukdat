@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696565684 source:d:\kuliah\semester3\strukdat\praktikum\24060122120014_sd06\mtqueue3.c
+	<stdio.h>
+	"tqueue3.h"
+	"boolean.h"
+
+1696656523 d:\kuliah\semester3\strukdat\praktikum\24060122120014_sd06\tqueue3.h
+	"boolean.h"
+	<math.h>
+
+1696656744 d:\kuliah\semester3\strukdat\praktikum\24060122120014_sd06\boolean.h
+
+1696656735 source:d:\kuliah\semester3\strukdat\praktikum\24060122120014_sd06\tqueue3.c
+	<stdio.h>
+	"tqueue3.h"
+	"boolean.h"
+
